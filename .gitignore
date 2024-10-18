@@ -1,0 +1,6 @@
+.venv
+.idea
+.env
+docs/__pycache__/*
+docs/*/__pycache__/*
+CH_CA.pem
